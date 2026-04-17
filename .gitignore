@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Environment and Secrets
+.env
+.env.local
+
+# Temporary/Test Files (Previously flagged by GitHub)
+test.bat
+test.ps1
+test_mistral.py
+test_vercel.py
